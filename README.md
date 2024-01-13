@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Miro
-- 🌱 I’m currently majoring Electorics and embedded systems and minoring Software development in a university.
+- I’m currently majoring Electorics and embedded systems and minoring Software development in a university.
 
 
 
