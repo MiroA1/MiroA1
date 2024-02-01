@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Miro
-- I’m currently majoring Electronics and embedded systems and minoring Software development in a university.
 
 
 
